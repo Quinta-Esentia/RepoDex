@@ -1,0 +1,10 @@
+name: first
+title:
+username:
+account: dexterity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2290914
+bundleId: 3140935
+url: https://dexterity.shinyapps.io/first/
+when: 1589357738.45377

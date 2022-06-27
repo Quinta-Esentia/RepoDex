@@ -1,0 +1,3 @@
+https://idp-confluence.riotinto.org/display/PACEP/Publishing+to+RStudio+Connect
+
+https://github.com/rstudio/shiny-examples.git
